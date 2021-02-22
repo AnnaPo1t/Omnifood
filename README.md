@@ -1,6 +1,6 @@
-OMNIFOOD
+
 ![](https://github.com/annapo1t/omnifood/raw/main/resources/img/logo.png)
-###  GOODBYE JUNK FOOD. HELLO SUPER HEALTHY MEALS.
+# OMNIFOOD - GOODBYE JUNK FOOD, HELLO SUPER HEALTHY MEALS.
 
 ___
 
