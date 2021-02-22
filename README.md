@@ -4,7 +4,7 @@ OMNIFOOD
 
 ___
 
-[OMNIFOOD](https://annapo1t.github.io/Omnifood/) ← rate this website ♥
+[Rate This Webpage](https://annapo1t.github.io/Omnifood/) ♥
 ___
 
 This webpage was created using:
