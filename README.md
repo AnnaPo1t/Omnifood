@@ -7,7 +7,9 @@ ___
 [Rate This Webpage](https://annapo1t.github.io/Omnifood/) ♥
 ___
 
-This webpage was created using:
+This webpage was created  during  my study the Jonas Schmedtmann Udemy course. 
+
+With followed technologies:
 * HTML5
 * CSS3
 * JS
