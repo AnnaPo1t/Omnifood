@@ -1,10 +1,10 @@
-<h1 style="text-align: center;">OMNIFOOD</h1>
+#OMNIFOOD
 ![](https://github.com/annapo1t/omnifood/raw/main/resources/img/logo.png)
 ##  GOODBYE JUNK FOOD. HELLO SUPER HEALTHY MEALS.
 
 ___
 
-[OMNIFOOD](https://annapo1t.github.io/Omnifood/)
+[OMNIFOOD](https://annapo1t.github.io/Omnifood/) <-rate this website :)
 ___
 
 This webpage was created using:
